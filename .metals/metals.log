@@ -5957,3 +5957,53 @@ INFO: Unsupported notification method: $/setTrace
 2026.03.12 21:03:54 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\SpecDemoValidator.java
 2026.03.12 21:05:53 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\WelcomeController.java. Using fallback presentation compiler.
 2026.03.12 21:05:53 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CrashControllerTests.java. Using fallback presentation compiler.
+2026.03.12 21:15:27 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java
+2026.03.12 21:15:27 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
+2026.03.12 21:15:27 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
+2026.03.12 21:16:46 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java
+2026.03.12 21:16:46 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
+2026.03.12 21:16:47 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
+2026.03.12 21:17:40 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CacheConfigurationTests.java. Using fallback presentation compiler.
+2026.03.12 21:17:41 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CacheConfigurationTests.java
+Mar 12, 2026 9:17:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 57
+2026.03.12 21:17:40 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CacheConfigurationTests.java. Using fallback presentation compiler.
+2026.03.12 21:17:40 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CacheConfigurationTests.java. Using fallback presentation compiler.
+2026.03.12 21:17:41 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CacheConfigurationTests.java. Using fallback presentation compiler.
+Mar 12, 2026 9:17:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 60
+2026.03.12 21:17:41 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CacheConfigurationTests.java. Using fallback presentation compiler.
+Mar 12, 2026 9:17:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 62
+Mar 12, 2026 9:17:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 66
+Mar 12, 2026 9:17:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 59
+Mar 12, 2026 9:17:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 65
+Mar 12, 2026 9:17:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 64
+Mar 12, 2026 9:17:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 58
+2026.03.12 21:19:40 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
+2026.03.12 21:19:40 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java
+2026.03.12 21:19:40 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
+2026.03.12 21:19:40 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
+Mar 12, 2026 9:19:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 67
+2026.03.12 21:19:40 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
+Mar 12, 2026 9:19:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 71
+2026.03.12 21:19:40 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
+2026.03.12 21:19:41 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
+2026.03.12 21:24:21 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
+Mar 12, 2026 9:28:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 9:28:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 9:28:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 9:28:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 9:28:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
