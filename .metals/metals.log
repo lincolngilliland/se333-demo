@@ -5996,3 +5996,14 @@ Mar 12, 2026 9:19:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellat
 WARNING: Unmatched cancel notification for request id 71
 2026.03.12 21:19:40 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
 2026.03.12 21:19:41 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
+2026.03.12 21:24:21 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
+Mar 12, 2026 9:28:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 9:28:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 9:28:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 9:28:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 9:28:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
