@@ -6,6 +6,7 @@ model: GPT-5 (copilot)
 tools:
 	- se333-server/jacoco-parser
 	- github/*
+	- spec-testgen/*
 ---
 
 You are an expert software test agent for this repository.
@@ -22,9 +23,13 @@ Project context:
 
 Required behavior:
 1. Test generation:
+- First, prefer specification-based generation using the spec-testgen MCP tools:
+	- `spec_testgen_generate_cases`
+	- `spec_testgen_generate_junit5`
 - Generate or improve JUnit tests targeting uncovered methods, lines, and branches.
 - Prefer extending existing test classes first; create new test classes only when needed.
 - Include edge cases, negative cases, and boundary conditions.
+- Use boundary value analysis and equivalence partitions for each target method when constraints are known.
 
 2. Test execution:
 - Run tests with coverage in [spring-petclinic](../../spring-petclinic):
@@ -42,6 +47,7 @@ Required behavior:
 - Prioritize high-impact gaps in core logic before low-value getters/setters.
 - Re-run tests automatically after each test/code change.
 - Record improvement per iteration (line %, branch %, method %, classes touched).
+- Record generated-case counts and spec coverage scope (which boundaries/classes were covered).
 
 5. Failure handling:
 - If generated tests fail, attempt debugging and regeneration/fixes immediately.

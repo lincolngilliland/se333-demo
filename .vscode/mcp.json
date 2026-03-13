@@ -3,6 +3,12 @@
     "github": {
       "type": "http",
       "url": "https://api.githubcopilot.com/mcp/"
+    },
+    "spec-testgen": {
+      "command": "python",
+      "args": [
+        "${workspaceFolder}/mcp/spec-testgen/server.py"
+      ]
     }
   }
 }
