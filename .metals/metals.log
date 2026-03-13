@@ -5939,3 +5939,19 @@ java.nio.file.FileSystemNotFoundException: Provider "git" not installed
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
+Mar 12, 2026 8:33:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 8:39:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 8:40:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 9:01:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.12 21:02:53 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\WelcomeController.java
+2026.03.12 21:02:53 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CrashControllerTests.java
+2026.03.12 21:03:10 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\SpecDemoValidator.java
+2026.03.12 21:03:10 WARN  Running javac-semanticdb failed for file:///C:/Users/Lincoln/Documents/GitHub/se333-demo/spring-petclinic/src/main/java/org/springframework/samples/petclinic/system/SpecDemoValidator.java. Output:
+
+2026.03.12 21:03:10 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\SpecDemoValidator.java. Using fallback presentation compiler.
+2026.03.12 21:03:10 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\SpecDemoValidator.java
+2026.03.12 21:03:54 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\SpecDemoValidator.java
