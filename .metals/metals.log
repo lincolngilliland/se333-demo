@@ -5766,3 +5766,176 @@ INFO: Unsupported notification method: $/setTrace
 2026.03.12 19:53:19 INFO  shutting down Metals
 2026.03.12 19:53:19 INFO  Shut down connection with build server.
 2026.03.12 19:53:19 INFO  Exiting server
+2026.03.12 20:01:14 INFO  Started: Metals version 1.6.6 in folders 'C:\Users\Lincoln\Documents\GitHub\se333-demo' for client Visual Studio Code 1.111.0.
+2026.03.12 20:01:14 INFO  Memory monitor started
+2026.03.12 20:01:14 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.12 20:01:16 INFO  skipping build import with status 'Installed'
+2026.03.12 20:01:16 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicRuntimeHints.java
+2026.03.12 20:01:16 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java
+2026.03.12 20:01:16 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\WebConfiguration.java
+2026.03.12 20:01:16 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\CacheConfiguration.java
+2026.03.12 20:01:16 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\WelcomeController.java
+2026.03.12 20:01:38 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CrashControllerTests.java
+Mar 12, 2026 8:01:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 8:02:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.12 20:03:08 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\PetClinicRuntimeHintsTests.java
+2026.03.12 20:03:08 WARN  Running javac-semanticdb failed for file:///C:/Users/Lincoln/Documents/GitHub/se333-demo/spring-petclinic/src/test/java/org/springframework/samples/petclinic/PetClinicRuntimeHintsTests.java. Output:
+
+2026.03.12 20:03:08 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\PetClinicRuntimeHintsTests.java. Using fallback presentation compiler.
+2026.03.12 20:03:08 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WelcomeControllerTests.java
+2026.03.12 20:03:08 WARN  Running javac-semanticdb failed for file:///C:/Users/Lincoln/Documents/GitHub/se333-demo/spring-petclinic/src/test/java/org/springframework/samples/petclinic/system/WelcomeControllerTests.java. Output:
+
+2026.03.12 20:03:08 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WelcomeControllerTests.java. Using fallback presentation compiler.
+2026.03.12 20:03:08 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\PetClinicRuntimeHintsTests.java. Using fallback presentation compiler.
+2026.03.12 20:03:09 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WebConfigurationTests.java
+2026.03.12 20:03:08 WARN  Running javac-semanticdb failed for file:///C:/Users/Lincoln/Documents/GitHub/se333-demo/spring-petclinic/src/test/java/org/springframework/samples/petclinic/system/WebConfigurationTests.java. Output:
+
+2026.03.12 20:03:08 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WebConfigurationTests.java. Using fallback presentation compiler.
+2026.03.12 20:03:08 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WelcomeControllerTests.java. Using fallback presentation compiler.
+2026.03.12 20:03:08 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\PetClinicRuntimeHintsTests.java. Using fallback presentation compiler.
+2026.03.12 20:03:08 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CacheConfigurationTests.java
+2026.03.12 20:03:08 WARN  Running javac-semanticdb failed for file:///C:/Users/Lincoln/Documents/GitHub/se333-demo/spring-petclinic/src/test/java/org/springframework/samples/petclinic/system/CacheConfigurationTests.java. Output:
+
+2026.03.12 20:03:08 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CacheConfigurationTests.java. Using fallback presentation compiler.
+2026.03.12 20:03:08 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\PetClinicRuntimeHintsTests.java. Using fallback presentation compiler.
+2026.03.12 20:03:08 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WebConfigurationTests.java. Using fallback presentation compiler.
+2026.03.12 20:03:09 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WelcomeControllerTests.java. Using fallback presentation compiler.
+2026.03.12 20:03:09 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\PetClinicRuntimeHintsTests.java
+2026.03.12 20:03:09 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WebConfigurationTests.java. Using fallback presentation compiler.
+2026.03.12 20:03:09 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CacheConfigurationTests.java. Using fallback presentation compiler.
+2026.03.12 20:03:10 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WelcomeControllerTests.java
+2026.03.12 20:03:11 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WebConfigurationTests.java. Using fallback presentation compiler.
+2026.03.12 20:03:11 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CacheConfigurationTests.java. Using fallback presentation compiler.
+2026.03.12 20:03:11 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WebConfigurationTests.java
+2026.03.12 20:03:11 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CacheConfigurationTests.java. Using fallback presentation compiler.
+2026.03.12 20:03:11 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CacheConfigurationTests.java
+2026.03.12 20:03:13 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CacheConfigurationTests.java
+2026.03.12 20:03:13 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WelcomeControllerTests.java
+2026.03.12 20:03:13 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WebConfigurationTests.java
+2026.03.12 20:03:13 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\PetClinicRuntimeHintsTests.java
+Mar 12, 2026 8:03:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.12 20:03:48 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\PetClinicRuntimeHintsTests.java. Using fallback presentation compiler.
+2026.03.12 20:03:48 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CacheConfigurationTests.java. Using fallback presentation compiler.
+2026.03.12 20:04:11 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicRuntimeHints.java. Using fallback presentation compiler.
+2026.03.12 20:04:11 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\WelcomeController.java. Using fallback presentation compiler.
+2026.03.12 20:04:11 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\WebConfiguration.java. Using fallback presentation compiler.
+2026.03.12 20:04:11 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\CacheConfiguration.java. Using fallback presentation compiler.
+2026.03.12 20:04:11 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
+2026.03.12 20:04:27 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WebConfigurationTests.java. Using fallback presentation compiler.
+2026.03.12 20:04:27 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WebConfigurationTests.java
+2026.03.12 20:04:32 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CacheConfigurationTests.java. Using fallback presentation compiler.
+2026.03.12 20:04:32 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CacheConfigurationTests.java
+2026.03.12 20:04:38 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CrashControllerTests.java. Using fallback presentation compiler.
+Mar 12, 2026 8:04:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.12 20:04:49 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CacheConfigurationTests.java. Using fallback presentation compiler.
+2026.03.12 20:04:54 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CacheConfigurationTests.java
+2026.03.12 20:04:54 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WebConfigurationTests.java
+2026.03.12 20:11:06 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WelcomeControllerTests.java. Using fallback presentation compiler.
+2026.03.12 20:11:06 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WelcomeControllerTests.java
+2026.03.12 20:11:06 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WelcomeControllerTests.java. Using fallback presentation compiler.
+Mar 12, 2026 8:11:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2026.03.12 20:11:06 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WelcomeControllerTests.java. Using fallback presentation compiler.
+2026.03.12 20:11:06 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WelcomeControllerTests.java. Using fallback presentation compiler.
+Mar 12, 2026 8:11:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2026.03.12 20:11:06 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WelcomeControllerTests.java. Using fallback presentation compiler.
+2026.03.12 20:11:08 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WebConfigurationTests.java. Using fallback presentation compiler.
+2026.03.12 20:11:09 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WebConfigurationTests.java
+2026.03.12 20:11:08 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WebConfigurationTests.java. Using fallback presentation compiler.
+2026.03.12 20:11:08 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WebConfigurationTests.java. Using fallback presentation compiler.
+2026.03.12 20:11:09 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WebConfigurationTests.java. Using fallback presentation compiler.
+2026.03.12 20:11:08 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\WebConfigurationTests.java. Using fallback presentation compiler.
+Mar 12, 2026 8:11:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 8:11:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 8:12:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 8:14:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 8:14:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 8:14:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 8:15:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 8:18:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.12 20:23:50 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java
+2026.03.12 20:23:51 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
+2026.03.12 20:23:51 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
+2026.03.12 20:24:42 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java
+2026.03.12 20:24:42 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
+2026.03.12 20:24:43 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
+2026.03.12 20:25:10 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java
+2026.03.12 20:25:10 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
+2026.03.12 20:25:10 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
+2026.03.12 20:27:19 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java
+2026.03.12 20:27:19 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
+2026.03.12 20:27:19 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicApplication.java. Using fallback presentation compiler.
+2026.03.12 20:27:19 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicRuntimeHints.java
+2026.03.12 20:27:19 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicRuntimeHints.java. Using fallback presentation compiler.
+2026.03.12 20:27:19 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\PetClinicRuntimeHints.java. Using fallback presentation compiler.
+2026.03.12 20:27:19 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\model\ValidatorTests.java
+2026.03.12 20:27:19 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\model\ValidatorTests.java. Using fallback presentation compiler.
+2026.03.12 20:27:19 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\model\ValidatorTests.java. Using fallback presentation compiler.
+2026.03.12 20:27:19 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\CacheConfiguration.java
+2026.03.12 20:27:19 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\CacheConfiguration.java. Using fallback presentation compiler.
+2026.03.12 20:27:19 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\CacheConfiguration.java. Using fallback presentation compiler.
+2026.03.12 20:27:19 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\MySqlIntegrationTests.java
+2026.03.12 20:27:19 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\MySqlIntegrationTests.java. Using fallback presentation compiler.
+2026.03.12 20:27:19 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\MySqlIntegrationTests.java. Using fallback presentation compiler.
+2026.03.12 20:27:20 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\WebConfiguration.java
+2026.03.12 20:27:20 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\WebConfiguration.java. Using fallback presentation compiler.
+2026.03.12 20:27:19 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\WebConfiguration.java. Using fallback presentation compiler.
+2026.03.12 20:27:19 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\WelcomeController.java
+2026.03.12 20:27:20 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\WelcomeController.java. Using fallback presentation compiler.
+2026.03.12 20:27:20 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\WelcomeController.java. Using fallback presentation compiler.
+2026.03.12 20:27:19 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\MysqlTestApplication.java
+2026.03.12 20:27:19 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\MysqlTestApplication.java. Using fallback presentation compiler.
+2026.03.12 20:27:20 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\MysqlTestApplication.java. Using fallback presentation compiler.
+Mar 12, 2026 8:28:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 8:28:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 8:29:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 8:29:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 12, 2026 8:30:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "git:/c%3A/Users/Lincoln/Documents/GitHub/se333-demo/spring-petclinic/src/test/java/org/springframework/samples/petclinic/PetClinicRuntimeHintsTests.java?%7B%22path%22%3A%22c%3A%5C%5CUsers%5C%5CLincoln%5C%5CDocuments%5C%5CGitHub%5C%5Cse333-demo%5C%5Cspring-petclinic%5C%5Csrc%5C%5Ctest%5C%5Cjava%5C%5Corg%5C%5Cspringframework%5C%5Csamples%5C%5Cpetclinic%5C%5CPetClinicRuntimeHintsTests.java%22%2C%22ref%22%3A%22%22%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "git" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
