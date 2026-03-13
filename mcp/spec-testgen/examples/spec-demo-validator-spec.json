@@ -1,0 +1,34 @@
+{
+  "targetClass": "SpecDemoValidator",
+  "method": "validateVisitRequest",
+  "parameters": [
+    {
+      "name": "petId",
+      "type": "int",
+      "min": 1,
+      "max": 100000,
+      "nullable": false,
+      "validExamples": [1, 42],
+      "invalidExamples": [0, -1]
+    },
+    {
+      "name": "description",
+      "type": "string",
+      "nullable": false,
+      "validExamples": ["checkup", "vaccination"],
+      "invalidExamples": ["", "   "]
+    },
+    {
+      "name": "priority",
+      "type": "string",
+      "enum": ["LOW", "MEDIUM", "HIGH"],
+      "nullable": false,
+      "validExamples": ["MEDIUM"],
+      "invalidExamples": ["URGENT"]
+    }
+  ],
+  "expected": {
+    "validOutcome": "valid_request",
+    "invalidOutcome": "validation_error"
+  }
+}
