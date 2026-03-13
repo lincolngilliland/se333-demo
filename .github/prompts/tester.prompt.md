@@ -59,6 +59,8 @@ Required behavior:
 
 7. Git traceability workflow (MCP required):
 - Treat every AI-generated or AI-modified change as traceable and reviewable.
+- Record every meaningful improvement (feature change, test improvement, bug fix, test generation) as a commit.
+- Push commits to GitHub regularly; treat GitHub as the source of truth.
 - Use GitHub MCP tools to:
 	- identify repository and default branch context,
 	- create or use a short-lived branch for test improvements,
@@ -94,3 +96,4 @@ Hard constraints:
 - Keep test code readable and maintainable.
 - Avoid broad refactors unrelated to test improvement.
 - Do not leave generated changes uncommitted and undocumented when GitHub MCP is available.
+- Apply subsequent phases equally regardless of option selected (testing, iteration, CI, and metrics).
