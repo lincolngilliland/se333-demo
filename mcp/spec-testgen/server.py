@@ -68,7 +68,8 @@ def _build_equivalence_classes(param: Dict[str, Any]) -> List[Dict[str, Any]]:
             {
                 "parameter": name,
                 "class": "valid",
-                "representative": valid_examples[0],
+                "case": "equivalence_valid",
+                "value": valid_examples[0],
                 "valid": True,
             }
         )
@@ -78,7 +79,8 @@ def _build_equivalence_classes(param: Dict[str, Any]) -> List[Dict[str, Any]]:
             {
                 "parameter": name,
                 "class": "invalid",
-                "representative": invalid_examples[0],
+                "case": "equivalence_invalid",
+                "value": invalid_examples[0],
                 "valid": False,
             }
         )
