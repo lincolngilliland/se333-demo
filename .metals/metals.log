@@ -5955,3 +5955,5 @@ INFO: Unsupported notification method: $/setTrace
 2026.03.12 21:03:10 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\SpecDemoValidator.java. Using fallback presentation compiler.
 2026.03.12 21:03:10 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\SpecDemoValidator.java
 2026.03.12 21:03:54 WARN  no build target for: C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\SpecDemoValidator.java
+2026.03.12 21:05:53 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\main\java\org\springframework\samples\petclinic\system\WelcomeController.java. Using fallback presentation compiler.
+2026.03.12 21:05:53 INFO  no build target found for C:\Users\Lincoln\Documents\GitHub\se333-demo\spring-petclinic\src\test\java\org\springframework\samples\petclinic\system\CrashControllerTests.java. Using fallback presentation compiler.
